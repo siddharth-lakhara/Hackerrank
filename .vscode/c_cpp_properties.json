@@ -3,7 +3,10 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}"
+                "${workspaceFolder}",
+                "C:/Users/Chinu/gcc/include/c++/7.3.0",
+                "C:/Users/Chinu/gcc/include/c++/7.3.0/x86_64-w64-mingw32",
+                "C:/Users/Chinu/gcc/include/c++/7.3.0/tr1"
             ],
             "defines": [
                 "_DEBUG",
@@ -13,7 +16,9 @@
             "browse": {
                 "path": [
                     "${workspaceFolder}",
-                    "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++"
+                    "C:\\Users\\Chinu\\gcc\\include\\c++\\7.3.0\\",
+                    "C:\\Users\\Chinu\\gcc\\include\\c++\\7.3.0",
+                    "C:\\Users\\Chinu\\gcc\\bin"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
