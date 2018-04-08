@@ -33,3 +33,4 @@
 *.app
 
 oldFile
+node_modules
